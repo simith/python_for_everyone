@@ -9,8 +9,8 @@ India and West indies have just played a cricket match. Record the runs score by
 Indian players average score is: _____
 
 ### Hint: 
-•	Use lists to store 10 numbers 
-•	Iterate through the list to calculate average score 
+-	Use lists to store 10 numbers 
+- Iterate through the list to calculate average score 
 
 
 ## Exercise 2:
@@ -22,6 +22,6 @@ The highest score is: ___
 The lowest score is: ___
 
 ### Hint:
-Use a variable to store max and min values.
-Iterate through the list to find the highest and lowest player scores.
+- Use a variable to store max and min values.
+- Iterate through the list to find the highest and lowest player scores.
  

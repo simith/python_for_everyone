@@ -13,7 +13,7 @@ Indian players average score is: _____
 •	Iterate through the list to calculate average score 
 
 
-## Exercise 2:
+# Exercise 2:
 
 From Exercise 1, after receiving the score of the Indian players, can you find out the highest and lowest scores and print it?
 

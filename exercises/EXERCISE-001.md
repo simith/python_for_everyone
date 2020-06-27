@@ -3,7 +3,7 @@
 
 ## Exercise 1:
 
-India and West indies have just played a cricket match. Record the runs scored by the 10 Indian players and print the average runs scored by India. 
+India and West indies have just played a cricket match. Record the runs scored by the 10 Indian players and print the average runs scored by Indian players. 
 
 ### Output:
 Indian players average score is: _____

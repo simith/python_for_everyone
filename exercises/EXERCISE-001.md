@@ -22,6 +22,6 @@ The highest score is: ___
 The lowest score is: ___
 
 ### Hint:
-Use a variable to store max and min values
+Use a variable to store max and min values.
 Iterate through the list to find the highest and lowest player scores.
  

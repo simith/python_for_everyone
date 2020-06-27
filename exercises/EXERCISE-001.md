@@ -19,7 +19,7 @@ Indian players average score is: _____
 From Exercise 1, after receiving the score of the Indian players, can you find out the highest and lowest scores and print it?
 
 ### Output: 
-The highest score is: ___
+The highest score is: ___  
 The lowest score is: ___
 
 ### Hint:

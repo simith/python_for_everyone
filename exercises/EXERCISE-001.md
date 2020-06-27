@@ -3,12 +3,13 @@
 
 ## Exercise 1:
 
-India and West indies have just played a cricket match. Record the runs score by the 10 Indian players and print the average runs score by India. 
+India and West indies have just played a cricket match. Record the runs scored by the 10 Indian players and print the average runs scored by India. 
 
 ### Output:
 Indian players average score is: _____
 
 ### Hint: 
+- Average runs = (Total runs)/(number of players who scored)
 -	Use lists to store 10 numbers 
 - Iterate through the list to calculate average score 
 
@@ -22,6 +23,6 @@ The highest score is: ___
 The lowest score is: ___
 
 ### Hint:
-- Use a variable to store max and min values.
+- Use a variable to store max and min values as you iterate the list of scores.
 - Iterate through the list to find the highest and lowest player scores.
  

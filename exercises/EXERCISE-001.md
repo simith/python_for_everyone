@@ -26,3 +26,15 @@ The lowest score is: ___
 - Use a variable to store highest and lowest scores as you iterate or run through the list of scores.
 - Run through the list to find the highest and lowest player scores.
  
+## Exercise 3:
+
+The price of a Kg of sugar is 5 dollars. If a customer buys 150 Kgs or more, the Customer gets a discount of 25 dollars, else no discount.
+
+### Input:
+Enter the number of Kilograms of Sugar you want to buy?: 
+
+### Output: 
+You have to pay ___ dollars.
+
+### Hint:
+- Use if else statements 

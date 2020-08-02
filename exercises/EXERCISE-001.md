@@ -38,3 +38,20 @@ You have to pay ___ dollars.
 
 ### Hint:
 - Use if else statements 
+
+
+## Exercise 4:
+The price of Apples is 10 dollars per kg, the price of grapes is 15 dollars per kg and the price of Oranges is 5 dollars per kg. A Customer buys Apples, Grapes and oranges and if the total bill of all the three items are greater than 100 dollars, the customer gets a 50% discount.
+
+
+### Input:
+Enter the number kgs of Apples:
+Enter the number kgs of Grapes:
+Enter the number kgs of Oranges:
+
+### Output: 
+You have to pay ___ dollars.
+Discount: 
+
+### Hint:
+- Use if else statements 
